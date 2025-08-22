@@ -1,4 +1,5 @@
 **🔤 Random String Generator**
+
 📄 Project Overview:
 
 A lightweight and customizable tool to generate random strings for various use cases like testing, placeholders, or unique identifiers.
@@ -61,13 +62,13 @@ GitHub
 
 🌐 Live Demo:
 
-Access the live application here: https://random-string-generator-nikitha.netlify.app/
+Access the live application here: hhttps://nikitha-random-string-generator.netlify.app/
 
 
 👩‍💻 Contributors:
 
 Nikitha Regulagadda – Developer
 
-📄 License
+📄 License:
 
 This project is licensed under the MIT License.
