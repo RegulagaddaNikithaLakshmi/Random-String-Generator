@@ -72,7 +72,7 @@ GitHub
 
 🌐 Live Demo:
 
-Access the live application here: hhttps://nikitha-random-string-generator.netlify.app/
+   https://nikitha-random-string-generator.netlify.app/
 
 
 
