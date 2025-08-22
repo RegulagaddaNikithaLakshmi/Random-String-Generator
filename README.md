@@ -1,8 +1,11 @@
 **🔤 Random String Generator**
 
+
 📄 Project Overview:
 
 A lightweight and customizable tool to generate random strings for various use cases like testing, placeholders, or unique identifiers.
+
+
 
 ⚙️ Features:
 
@@ -14,6 +17,8 @@ A lightweight and customizable tool to generate random strings for various use c
 
 📦 No External Dependencies: Pure JavaScript implementation.
 
+
+
 🛠️ Technologies Used:
 
 React.js – JavaScript library for building user interfaces.
@@ -23,6 +28,7 @@ HTML/CSS – Structure and styling of the application.
 JavaScript – Logic for string generation.
 
 Tailwind CSS – Utility-first CSS framework for rapid UI development.
+
 
 
 🚀 Installation:
@@ -49,6 +55,8 @@ npm start
 
 Open your browser and go to http://localhost:3000 to view the application.
 
+
+
 🎯 Usage:
 
 Enter the desired string length.
@@ -60,14 +68,19 @@ Click on "Generate" to create a random string.
 Click on "Copy" to copy the generated string to your clipboard.
 GitHub
 
+
+
 🌐 Live Demo:
 
 Access the live application here: hhttps://nikitha-random-string-generator.netlify.app/
 
 
+
 👩‍💻 Contributors:
 
 Nikitha Regulagadda – Developer
+
+
 
 📄 License:
 
