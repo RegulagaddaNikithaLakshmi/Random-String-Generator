@@ -1,4 +1,4 @@
-#**🔤 Random String Generator**
+**🔤 Random String Generator**
 
 
 📄 Project Overview:
